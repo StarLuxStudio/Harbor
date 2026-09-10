@@ -1,0 +1,10 @@
+{
+  "name": "Harbor of the Silent Bell",
+  "short_name": "Silent Bell",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0b09",
+  "theme_color": "#0d0b09",
+  "orientation": "any",
+  "icons": []
+}
